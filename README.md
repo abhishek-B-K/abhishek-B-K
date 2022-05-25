@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhishek-B-K
+- 👋 Hi, Abhishek
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web dev project
