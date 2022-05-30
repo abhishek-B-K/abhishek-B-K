@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Abhishek
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web dev project
 
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
